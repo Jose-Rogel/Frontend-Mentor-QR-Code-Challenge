@@ -1,0 +1,42 @@
+body {
+    background-color: #d5e1ef;
+}
+
+h1 {
+    font-family: 'outfit';
+    font-size: 22px;
+    font-weight: 700;
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    font-size: 15px;
+    font-weight: 400;
+    margin: auto 5%;
+    text-align: center;
+}
+
+.whiteFrame {
+    border-radius: 5%;
+    background-color: white;
+    height: 450px;
+    left: 50%;
+    margin: 0;
+    padding: 7px;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 285px;
+}
+
+.qr {
+    border-radius: 5%;
+    display: block;
+    height: 260px;
+    margin: auto;
+    padding-top: 8px;
+    width: 260px;
+}
